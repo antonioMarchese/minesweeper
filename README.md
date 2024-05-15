@@ -1,7 +1,7 @@
 # Minesweeper 
 
 ## Introduction
-This is a graphical implementation of the classic Minesweeper game, developed using Python and the Pygame library. The game includes both manual play and an AI agent that can make safe moves and, if necessary, random moves. 
+This is a graphical implementation of the classic Minesweeper game, developed using Python and the Pygame library, with an AI player.
 
 ## Requirements
 - Python 3.x
