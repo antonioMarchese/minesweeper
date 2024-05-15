@@ -10,7 +10,7 @@ This is a graphical implementation of the classic Minesweeper game, developed us
 ## Installation
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/minesweeper.git
+   git clone https://github.com/antonioMarchese/minesweeper.git
    ```
 2. ## Navigate to the project directory:
    ```
